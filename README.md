@@ -1,1 +1,1 @@
-# daily-commit-action
+[![Daily Automated Commit](https://github.com/suraj-kumar123rs/daily-commit-action/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/suraj-kumar123rs/daily-commit-action/actions/workflows/daily-commit.yml)# daily-commit-action
